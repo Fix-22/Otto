@@ -1,0 +1,19 @@
+:Author: fix-22
+:Date: 04/01/2021
+:Revision: 0.1 
+:License: Public Domain
+
+= Project: Otto
+
+Otto is an intermediate project made with Arduino. It's a simple robot that scan 
+the surrounding area and print the distances of the objects on the serial monitor.
+
+== Using the project
+Install the program and create the circuit as in "Otto.png".
+
+=== License
+This project is released under a Public Domain License.
+
+=== Contributing
+To contribute to this project please contact fix-22 https://id.arduino.cc/fix-22
+
